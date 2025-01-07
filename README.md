@@ -73,6 +73,11 @@ alur kerja:
 
   ![image](https://github.com/user-attachments/assets/1177b9fd-33b4-447b-a72c-b0d816013dab)
 
+  dan ini hasil kode program
+
+  ![Screenshot 2025-01-07 190435](https://github.com/user-attachments/assets/19d667ae-2327-4b6c-8719-cb7d70de2a6d)
+
+
 
 
 
