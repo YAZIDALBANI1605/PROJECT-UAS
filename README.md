@@ -4,7 +4,7 @@ KELAS : TI.24.A4
 
 NIM : 312410279
 
-MATKUL : BAHASA PEMOGRAMAN
+MATKUL : PROJECT UAS BAHASA PEMOGRAMAN
 
 ![Screenshot 2025-01-07 162109](https://github.com/user-attachments/assets/d6f31eca-0d8e-481f-8482-0044feef5f9e)
 
